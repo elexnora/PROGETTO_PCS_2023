@@ -33,7 +33,7 @@ bool UpperLine(const Point& p1,
   else if (dx1*dy2 < dy1*dx2)
     return false;
   else
-    return (dx1*dx2+dy1*dy2 >= 0);
+    return (dx1*dx2+dy1*dy2 >= TOLL);
 }
 
 

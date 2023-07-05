@@ -27,7 +27,7 @@ bool sinistra (const Point& a,const Point& b,const Point &c)   // ritorna falso 
     Point AB = B-a;
     Point AC = C-a;
     double z = AB.x*AC.y-AB.y*AC.x;
-    if (z< 0)
+    if (z< - TOLL)
         return false;
     else
         return true;
@@ -68,7 +68,7 @@ bool sinistra (const Point& a,const Point& b,const Point &c)   // ritorna falso 
 
      double determinante = ax * (by * (cx*cx+cy*cy) - cy*(bx*bx+by*by)) - bx * (ay*(cx*cx+cy*cy) - cy*(ax*ax+ay*ay)) + cx * (ay*(bx*bx+by*by) - by*(ax*ax+ay*ay));
 
-     return determinante > 0;
+     return determinante > TOLL;
 
  }
 

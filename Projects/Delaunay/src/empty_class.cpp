@@ -62,16 +62,7 @@ void Delaunay()
         Triangle* T=trova_triangolo(punti_da_aggiungere[i],triangoli);
         nuovi_triangoli(T,punti_da_aggiungere[i],lati,triangoli,id_triangoli,id_lati);
     }
-    // output schermo
-    cout<<"Lati: "<<endl;
-    for (int i=0;i<int(lati.size());i++)
-    {
-        Point p1;
-        p1 = lati[i].points[0];
-        Point p2;
-        p2 = lati[i].points[1];
-        cout<<to_string(i+1)<<") "<<"punto di inizio: ("<<p1.x<<","<<p1.y<<")       punto di fine: ("<<p2.x<<","<<p2.y <<")"<<endl;
-    }
+
     // output file
     string output = "C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/Dataset/output.csv";
     CreoFileOutput(output,lati);

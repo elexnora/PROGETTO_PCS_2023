@@ -1,10 +1,7 @@
 #ifndef __SORTING_H
 #define __SORTING_H
 
-#include "iostream"
-#include "list"
 #include "Eigen/Eigen"
-#include "map"
 #include <vector>
 
 using namespace std;

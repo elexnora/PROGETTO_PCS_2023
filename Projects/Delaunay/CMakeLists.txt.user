@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 9.0.2, 2023-07-05T20:03:59. -->
+<!-- Written by QtCreator 9.0.2, 2023-07-05T22:21:11. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -69,32 +69,6 @@
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="AutoTest.CheckStates">
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:Test1Point">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:Test2Points">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:Test3Points">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestAggiorna_Adiacenze">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestConvexHull">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestDelaunay">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestDentro_cerchio_circoscritto">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestDentro_triangolo">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestFileOutput">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestFlip">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestFuori">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestInput">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestIsPointBetween">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestIsPointOutside">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestIsPointOutside2">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestMergeSort">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestOrdinaPunti">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestSinistra">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestSorting">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestTriangoliInt">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestTrovaNuovoLato">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestTrovaTriangolo">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestVerifica_adiacenza">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestVerifica_ipotesi_Delaunay">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestXFloatingPoints">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PCS2023_Exercises/Projects/Delaunay/test/test_empty.hpp:TestXPoints">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PROGETTO/Projects/Delaunay/test/test_empty.hpp:Test1Point">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PROGETTO/Projects/Delaunay/test/test_empty.hpp:Test2Points">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/matteo/OneDrive/Desktop/PROGETTO/Projects/Delaunay/test/test_empty.hpp:Test3Points">Checked</value>

@@ -14,6 +14,7 @@
 #include <list>
 #include <iostream>
 
+#define TOLL 10e-15
 
 using namespace std ;
 using namespace Eigen;
